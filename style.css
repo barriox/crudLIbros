@@ -1,0 +1,18 @@
+.nodec{
+    list-style:none;
+}
+button{
+    margin-left: 1rem;
+    padding: 0.2rem;
+}
+.ins{
+    position: fixed;
+    top: 50%;
+    left: 60%;
+}
+.ins a{
+    text-decoration: none;
+}
+.pag{
+    padding: 1rem;
+}
